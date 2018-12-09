@@ -18,10 +18,10 @@ int main()
 	int dzien;
 	int miesiac;
 
-	cout << "Podaj dziDDDDen: ";
+	cout << "Podaj dzien: ";
 	cin >> dzien;
 
-	cout << "Podaj miesiac: ";
+	cout << "Podaj miesiSSac: ";
 	cin >> miesiac;
 
 	cout << "Podaj rok: ";
