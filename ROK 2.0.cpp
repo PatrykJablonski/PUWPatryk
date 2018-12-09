@@ -21,7 +21,7 @@ int main()
 	cout << "Podaj dzien: ";
 	cin >> dzien;
 
-	cout << "Podaj miesiac: ";
+	cout << "Podaj mieSRATY TATYsiac: ";
 	cin >> miesiac;
 
 	cout << "PXXodaj rok: ";
