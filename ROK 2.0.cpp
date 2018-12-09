@@ -21,10 +21,10 @@ int main()
 	cout << "Podaj dzien: ";
 	cin >> dzien;
 
-	cout << "Podaj miesiSSac: ";
+	cout << "Podaj miesiac: ";
 	cin >> miesiac;
 
-	cout << "Podaj rok: ";
+	cout << "PXXodaj rok: ";
 	cin >> year;
 
 	int liczbaDni = 0;
