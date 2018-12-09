@@ -18,7 +18,7 @@ int main()
 	int dzien;
 	int miesiac;
 
-	cout << "Podaj dzien: ";
+	cout << "Podaj dziDDDDen: ";
 	cin >> dzien;
 
 	cout << "Podaj miesiac: ";
