@@ -18,13 +18,13 @@ int main()
 	int dzien;
 	int miesiac;
 
-	cout << "Podaj dziSSSen: ";
+	cout << "Podaj dzIen: ";
 	cin >> dzien;
 
-	cout << "Podaj mieSRATY TATYsiac: ";
+	cout << "Podaj miesiac: ";
 	cin >> miesiac;
 	
-	cout << "PXXodaj roXk: ";
+	cout << "Podaj rok: ";
 	cin >> year;
 
 	int liczbaDni = 0;
